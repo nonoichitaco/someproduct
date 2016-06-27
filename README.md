@@ -1,2 +1,2 @@
 # someproduct
-Xsomeproduct
+someproduct
